@@ -7,7 +7,7 @@
 ## 2. gynecologist       : 妇科医生   
 
 1. logos                 :科学，研究 science，study
-
+2. gyne			:wemon 女人
 
 ## 3. obstetrician       : 产科医生
 
